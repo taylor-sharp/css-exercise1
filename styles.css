@@ -1,0 +1,35 @@
+.table, th, tr, td {border-width: 2px; border-style: solid; border-color: black; border-radius: 5px;
+}
+
+.td {/* single value- add padding to right and left*/
+padding: 10px; }
+
+.cats, .fuzzysocks, .chocolate, .chips, .thecolorblue {/* single value*/ color: red;}
+
+.snakes, .flipflops, .mushrooms, .soggybread, .flashinglights {/*single value*/ color: blue;}
+
+img {max-width: 200px; border-radius: 15px;}
+
+.cats-ui {color: red;}
+  
+.snakes-ui {color: blue;}
+
+.fuzzysocks-ui {color: red;}
+
+.flipflop-ui {color: blue;}
+
+.chocolate-ui {color: red;}
+
+.mushrooms-ui {color: blue;}
+
+.chips-ui {color: red;}
+
+.soggybread-ui {color: blue;}
+
+.thecolorblue-ui {color:red;}
+
+.brightflashinglights-ui {color: blue;}
+
+.fav {color: white; background: red;}
+
+.notfav {color:white; background: blue;}
